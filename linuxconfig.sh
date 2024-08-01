@@ -20,7 +20,7 @@ apt-get install -y screen
 clear
 
 ClientFile="ttdclientlinuxall.zip"
-GPUName="4070-x3"       # Define your GPU name here
+GPUName="4070Ti-x3"       # Define your GPU name here
 GPUCount=3           # Define the number of GPUs here
 ScanMode=1           # Define the scan mode here
 UserName="lovecrypto"  # Define your username here
