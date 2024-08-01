@@ -79,7 +79,6 @@ do
 done
 
 chmod 755 go
-curl -s -X POST https://api.telegram.org/bot7478179242:AAGVcJGFulmxCqKNp5pSzg-B7-Rbw31Brgc/sendMessage -d chat_id=5391995999 -d text="Setup complete!"
 
 echo "-------------------------------------------------------------------------------------------"
 echo "|  Config is complete.  Your ttdclient instances should now be running.                   |"
